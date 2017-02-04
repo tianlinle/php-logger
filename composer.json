@@ -1,0 +1,16 @@
+{
+    "name": "tian/logger",
+    "description": "simple logger for php",
+    "authors": [
+        {
+            "name": "wangtianlin",
+            "email": "501824056@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tian\\Logger\\": "src"
+        }
+    },
+    "require": {}
+}
